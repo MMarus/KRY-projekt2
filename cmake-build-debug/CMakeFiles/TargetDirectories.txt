@@ -1,0 +1,3 @@
+/home/archie/Devel/KRY-projekt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/archie/Devel/KRY-projekt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/archie/Devel/KRY-projekt2/cmake-build-debug/CMakeFiles/KRY_projekt2.dir
